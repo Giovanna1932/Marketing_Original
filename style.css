@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+.div1 {
+    background-color: black;
+    color: #00A857;
+    width: 439px;
+    height: 220px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+}
+.div2 {
+    background-color: black;
+    color: white;
+    font-family: Helvetica;
+}
+.div3 {
+    color: white;
+    width: 453px;
+    height: 71px;
+    left: 60px;
+    top: 374px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+}
